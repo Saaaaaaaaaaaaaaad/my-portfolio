@@ -1,0 +1,36 @@
+body{
+    font-family: 'The Nautigal', cursive;
+    font-size: 30px;
+    margin: 0;
+}
+h1{
+    border-left: 2px solid;
+    border-radius: 1%;
+    border-color: tomato;
+}
+.golden-col{
+    color: goldenrod;
+}
+.flex-cont{
+    display: flex;
+    margin-bottom: 150px;
+}
+.width-balance{
+    width: 50%;
+    padding: 10%;
+}
+.width-balance img{
+    width: 125%;
+}
+.link-button{
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: 800;
+    padding: 10px 30px ;
+    text-align: center;
+}
+.allign{
+    text-align: center;
+}
