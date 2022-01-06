@@ -39,7 +39,7 @@ body{
 .bg-change1{
     background-color: cyan;
     border-radius: 8px;
-    padding: 3%;
+    padding: 2%;
     margin: 50px 20px;
     color: black;
 }
@@ -50,7 +50,7 @@ body{
 .bg-change2{
     background-color: thistle ;
     border-radius: 8px;
-    padding:3%;
+    padding:2%;
     margin: 50px 20px;
     color: black;
 }
@@ -60,10 +60,15 @@ body{
 .bg-change3{
     background-color: rgb(184, 67, 43) ;
     border-radius: 8px;
-    padding: 3%;
+    padding: 2%;
     margin: 50px 20px;
     color: black;
 }
 .bg-change3 img{
     width: 40%;
+}
+.finisher{
+text-align: center;
+background-color: black;
+margin:0;
 }
